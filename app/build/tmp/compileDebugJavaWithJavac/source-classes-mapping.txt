@@ -1,0 +1,16 @@
+com/example/app/gestionevenement/ongletEvenement.java
+ com.example.app.gestionevenement.ongletEvenement
+com/example/app/gestionevenement/MainActivity.java
+ com.example.app.gestionevenement.MainActivity
+com/example/app/gestionevenement/ui/main/PageViewModel.java
+ com.example.app.gestionevenement.ui.main.PageViewModel
+ com.example.app.gestionevenement.ui.main.PageViewModel$1
+com/example/app/gestionevenement/ui/main/PlaceholderFragment.java
+ com.example.app.gestionevenement.ui.main.PlaceholderFragment
+ com.example.app.gestionevenement.ui.main.PlaceholderFragment$1
+com/example/app/gestionevenement/BuildConfig.java
+ com.example.app.gestionevenement.BuildConfig
+com/example/app/gestionevenement/ui/main/SectionsPagerAdapter.java
+ com.example.app.gestionevenement.ui.main.SectionsPagerAdapter
+com/example/app/gestionevenement/ongletVisiteur.java
+ com.example.app.gestionevenement.ongletVisiteur
